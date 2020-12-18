@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1575902219 source:c:\users\spoko\desktop\randommaze\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+
