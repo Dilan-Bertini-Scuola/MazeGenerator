@@ -10,3 +10,6 @@ un breve video di come funziona l'algoritmo può essere trovato [qui](https://up
 
 ### Per un esempio del suo funzionamento all'interno del programma
 [Clicca qui per andare su Youtube](https://youtube.com)
+
+# TODO:
+- [ ] Ottimizzare l'algoritmo con le nuove conoscenze.
