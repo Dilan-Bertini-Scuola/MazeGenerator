@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1608314738 source:c:\users\spoko\desktop\mazegenerator\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+
